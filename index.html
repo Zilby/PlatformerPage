@@ -109,34 +109,34 @@ $(function() {
 <h2>Postmortem </h2><hr/>
 <p>For this assignment we implemented a component-based game object system. Overall,
     it was a very useful system to work with, but we did run into a few issues that we didn't have 
-    time to fix yet but will fix for assignment 3.
+    time to fix yet but will fix for assignment 3.</p>
     
-    The first was that only one of each component could be included on each game object. This was fine
+    <p> The first was that only one of each component could be included on each game object. This was fine
     most of the time, but sometimes we wanted to separate parts of our lambda components into different 
-    pieces for readability, and could not due to this limitation.
+    pieces for readability, and could not due to this limitation.</p>
     
-    Another issue was highlighted by our RenderComponents. In order to get our engine to find them, we had to
+    <p>Another issue was highlighted by our RenderComponents. In order to get our engine to find them, we had to
     add any subclass of RenderComponent as a RenderComponent. This is because our component mapping doesn't
     support inheritance very well. Components have to retrieved by the type they were added as,
     not by the dynamic type they actually are. That meant that we could only find subclasses of RenderComponent 
     later by getting the RenderComponent and casting it to the correct type if we needed to call
-    any functions on it.
+    any functions on it.</p>
     
-    A third issue is that of our camera system. It was tacked on as an afterthought when we decided
+    <p>The third issue is that of our camera system. It was tacked on as an afterthought when we decided
     that our levels should have scrolling, but it needed influence in a lot of different areas of
     our engine. Translating between the coordinate spaces was spread out a little too much through
     our code, although we managed to rein it in a little bit. For asssignment 3, we will rebuild it
     so that it is properly abstracted and much less brittle (i.e. it doen't break if there's more
-    or less than one camera in the scene).
+    or less than one camera in the scene).</p>
     
-    Oh, and the last thing: physics are not fun to program. Initially we tried to code a robust physics system
+  <p>Oh, and the last thing: physics are not fun to program. Initially we tried to code a robust physics system
     that could handle objects moving very fast by interpolating between its old and new positions and checking
     for collisions, but this had to scrapped in favor of a simple check of the current position because
     it proved too buggy. For the purposes of this game, the simpler system works just fine, although physics
     introduces a lot of edge cases and so there are probably still some bugs we haven't ironed out, although
-    it's hopefully pretty good.
+    it's hopefully pretty good.</p>
     
-    Something that did go really well was the editor. It was pretty painless to keep updating as we made modifications
+  <p>Something that did go really well was the editor. It was pretty painless to keep updating as we made modifications
     to our engine, and basing its core in our engine was a really smart move for keeping it up to date with the
     iterations we made.</p>
 </div></div><!-- contents -->
