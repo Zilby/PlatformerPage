@@ -1,0 +1,4 @@
+<map id="PIL.ImageShow.XVViewer" name="PIL.ImageShow.XVViewer">
+<area shape="rect" id="node2" href="$classPIL_1_1ImageShow_1_1UnixViewer.html" title="{PIL.ImageShow.UnixViewer\n|+ options\l|+ show_file()\l+ show_file()\l}" alt="" coords="5,423,191,509"/>
+<area shape="rect" id="node3" href="$classPIL_1_1ImageShow_1_1Viewer.html" title="{PIL.ImageShow.Viewer\n|+ format\l+ options\l|+ show()\l+ get_format()\l+ get_command()\l+ save_image()\l+ show_image()\l+ show_file()\l+ show()\l+ get_format()\l+ get_command()\l+ save_image()\l+ show_image()\l+ show_file()\l}" alt="" coords="19,128,178,361"/>
+</map>

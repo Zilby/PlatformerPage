@@ -1,0 +1,4 @@
+<map id="ImagingObject" name="ImagingObject">
+<area shape="rect" id="node2" href="$structImagingMemoryInstance.html" title="{ImagingMemoryInstance\n|+ mode\l+ type\l+ depth\l+ bands\l+ xsize\l+ ysize\l+ image8\l+ image32\l+ image\l+ block\l+ pixelsize\l+ linesize\l+ destroy\l|}" alt="" coords="91,153,259,387"/>
+<area shape="rect" id="node4" href="$structImagingMemoryBlock.html" title="{ImagingMemoryBlock\n|+ ptr\l+ size\l|}" alt="" coords="100,5,250,92"/>
+</map>

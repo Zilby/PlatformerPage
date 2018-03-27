@@ -1,0 +1,6 @@
+<map id="helper.PillowLeakTestCase" name="helper.PillowLeakTestCase">
+<area shape="rect" id="node4" href="$classtest__file__png_1_1TestTruncatedPngPLeaks.html" title="{test_file_png.TestTruncated\lPngPLeaks\n|+ mem_limit\l+ iterations\l|+ setUp()\l+ test_leak_load()\l}" alt="" coords="5,556,190,669"/>
+<area shape="rect" id="node5" href="$classtest__font__leaks_1_1TestTTypeFontLeak.html" title="{test_font_leaks.TestTType\lFontLeak\n|+ iterations\l+ mem_limit\l|+ test_leak()\l&#45; _test_font()\l}" alt="" coords="214,556,390,669"/>
+<area shape="rect" id="node2" href="$classhelper_1_1PillowTestCase.html" title="{helper.PillowTestCase\n|+ currentResult\l|+ __init__()\l+ __str__()\l+ run()\l+ delete_tempfile()\l+ assert_deep_equal()\l+ assert_image()\l+ assert_image_equal()\l+ assert_image_equal\l_tofile()\l+ assert_image_similar()\l+ assert_image_similar\l_tofile()\land 6 more...\l}" alt="" coords="115,127,283,360"/>
+<area shape="rect" id="node6" href="$classtest__font__leaks_1_1TestDefaultFontLeak.html" title="{test_font_leaks.TestDefault\lFontLeak\n|+ iterations\l+ mem_limit\l|+ test_leak()\l}" alt="" coords="211,717,392,817"/>
+</map>

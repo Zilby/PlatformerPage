@@ -1,0 +1,4 @@
+<map id="PIL.ImageFile.PyDecoder" name="PIL.ImageFile.PyDecoder">
+<area shape="rect" id="node3" href="$classPIL_1_1MspImagePlugin_1_1MspDecoder.html" title="{PIL.MspImagePlugin.MspDecoder\n|&#45; _pulls_fd\l|+ decode()\l+ decode()\l}" alt="" coords="5,455,229,541"/>
+<area shape="rect" id="node4" href="$classPIL_1_1SgiImagePlugin_1_1SGI16Decoder.html" title="{PIL.SgiImagePlugin.SGI16\lDecoder\n|&#45; _pulls_fd\l|+ decode()\l+ decode()\l}" alt="" coords="253,448,432,548"/>
+</map>

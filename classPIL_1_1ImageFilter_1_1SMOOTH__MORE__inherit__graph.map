@@ -1,0 +1,6 @@
+<map id="PIL.ImageFilter.SMOOTH_MORE" name="PIL.ImageFilter.SMOOTH_MORE">
+<area shape="rect" id="node2" href="$classPIL_1_1ImageFilter_1_1BuiltinFilter.html" title="{PIL.ImageFilter.BuiltinFilter\n||+ __init__()\l+ __init__()\l}" alt="" coords="25,544,206,631"/>
+<area shape="rect" id="node3" href="$classPIL_1_1ImageFilter_1_1Kernel.html" title="{PIL.ImageFilter.Kernel\n|+ filterargs\l|+ __init__()\l+ filter()\l+ __init__()\l+ filter()\l}" alt="" coords="39,383,192,496"/>
+<area shape="rect" id="node4" href="$classPIL_1_1ImageFilter_1_1MultibandFilter.html" title="{PIL.ImageFilter.Multiband\lFilter\n||}" alt="" coords="29,248,202,335"/>
+<area shape="rect" id="node5" href="$classPIL_1_1ImageFilter_1_1Filter.html" title="{PIL.ImageFilter.Filter\n||}" alt="" coords="43,127,188,200"/>
+</map>

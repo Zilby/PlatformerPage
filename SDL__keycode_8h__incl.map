@@ -1,0 +1,8 @@
+<map id="ThirdParty/include/SDL2/SDL_keycode.h" name="ThirdParty/include/SDL2/SDL_keycode.h">
+<area shape="rect" id="node2" href="$SDL__stdinc_8h.html" title="This is a general header that includes C language support. " alt="" coords="659,165,760,191"/>
+<area shape="rect" id="node20" href="$SDL__scancode_8h.html" title="Defines keyboard scancodes. " alt="" coords="697,92,820,117"/>
+<area shape="rect" id="node3" href="$SDL__config_8h_source.html" title="SDL_config.h" alt="" coords="71,239,172,264"/>
+<area shape="rect" id="node5" href="$begin__code_8h.html" title="This file sets things up for C dynamic library function definitions, static inlined functions..." alt="" coords="5,385,107,411"/>
+<area shape="rect" id="node6" href="$close__code_8h.html" title="This file reverses the effects of begin_code.h and should be included after you finish any function a..." alt="" coords="146,385,246,411"/>
+<area shape="rect" id="node4" href="$SDL__platform_8h.html" title="Try to get a standard set of platform defines. " alt="" coords="62,312,176,337"/>
+</map>

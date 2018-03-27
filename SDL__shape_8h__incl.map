@@ -1,0 +1,15 @@
+<map id="ThirdParty/include/SDL2/SDL_shape.h" name="ThirdParty/include/SDL2/SDL_shape.h">
+<area shape="rect" id="node2" href="$SDL__stdinc_8h.html" title="This is a general header that includes C language support. " alt="" coords="1118,459,1218,484"/>
+<area shape="rect" id="node5" href="$begin__code_8h.html" title="This file sets things up for C dynamic library function definitions, static inlined functions..." alt="" coords="208,679,309,704"/>
+<area shape="rect" id="node6" href="$close__code_8h.html" title="This file reverses the effects of begin_code.h and should be included after you finish any function a..." alt="" coords="1937,679,2037,704"/>
+<area shape="rect" id="node20" href="$SDL__pixels_8h.html" title="Header for the enumerated pixel format definitions. " alt="" coords="306,312,406,337"/>
+<area shape="rect" id="node22" href="$SDL__rect_8h.html" title="Header file for SDL_rect definition and management functions. " alt="" coords="941,239,1029,264"/>
+<area shape="rect" id="node25" href="$SDL__surface_8h.html" title="Header file for SDL_Surface definition and management functions. " alt="" coords="1023,165,1132,191"/>
+<area shape="rect" id="node27" href="$SDL__video_8h.html" title="Header file for SDL video functions. " alt="" coords="956,92,1054,117"/>
+<area shape="rect" id="node3" href="$SDL__config_8h_source.html" title="SDL_config.h" alt="" coords="549,532,651,557"/>
+<area shape="rect" id="node4" href="$SDL__platform_8h.html" title="Try to get a standard set of platform defines. " alt="" coords="654,605,768,631"/>
+<area shape="rect" id="node21" href="$SDL__endian_8h.html" title="Functions for reading and writing endian&#45;specific values. " alt="" coords="459,385,565,411"/>
+<area shape="rect" id="node23" href="$SDL__error_8h.html" title="Simple error message routines for SDL. " alt="" coords="1037,385,1131,411"/>
+<area shape="rect" id="node24" href="$SDL__rwops_8h.html" title="This file provides a general interface for SDL to read and write data streams. " alt="" coords="1061,312,1163,337"/>
+<area shape="rect" id="node26" href="$SDL__blendmode_8h.html" title="Header file declaring the SDL_BlendMode enumeration. " alt="" coords="498,605,630,631"/>
+</map>

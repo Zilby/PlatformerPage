@@ -1,0 +1,4 @@
+<map id="RenderComponent::Render" name="RenderComponent::Render">
+<area shape="rect" id="node2" href="$classRenderComponent.html#adf317f9ef7a7802a6fd1ba1a4a791ac8" title="Determines the screen region to render this component based on the camera. " alt="" coords="238,5,464,31"/>
+<area shape="rect" id="node3" href="$classRenderManager.html#ae461c908c30dca62528798b92a985a4a" title="The singleton instance of the RenderManager. " alt="" coords="264,55,439,80"/>
+</map>

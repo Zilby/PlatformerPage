@@ -1,0 +1,4 @@
+<map id="PIL.Hdf5StubImagePlugin.HDF5StubImageFile" name="PIL.Hdf5StubImagePlugin.HDF5StubImageFile">
+<area shape="rect" id="node2" href="$classPIL_1_1ImageFile_1_1StubImageFile.html" title="{PIL.ImageFile.StubImageFile\n|&#45; __class__\l&#45; __dict__\l|+ load()\l+ load()\l&#45; _open()\l&#45; _load()\l&#45; _open()\l&#45; _load()\l}" alt="" coords="12,555,205,708"/>
+<area shape="rect" id="node3" href="$classPIL_1_1ImageFile_1_1ImageFile.html" title="{PIL.ImageFile.ImageFile\n|+ tile\l+ readonly\l+ decoderconfig\l+ decodermaxblock\l+ fp\l+ filename\l+ map\l+ im\l+ mode\l&#45; _min_frame\l&#45; _exclusive_fp\l|+ __init__()\l+ draft()\l+ verify()\l+ load()\l+ load_prepare()\l+ load_end()\l+ __init__()\l+ draft()\l+ verify()\l+ load()\l+ load_prepare()\l+ load_end()\l&#45; _seek_check()\l&#45; _seek_check()\l}" alt="" coords="26,127,192,507"/>
+</map>

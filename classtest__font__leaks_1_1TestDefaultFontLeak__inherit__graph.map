@@ -1,0 +1,5 @@
+<map id="test_font_leaks.TestDefaultFontLeak" name="test_font_leaks.TestDefaultFontLeak">
+<area shape="rect" id="node2" href="$classtest__font__leaks_1_1TestTTypeFontLeak.html" title="{test_font_leaks.TestTType\lFontLeak\n|+ iterations\l+ mem_limit\l|+ test_leak()\l&#45; _test_font()\l}" alt="" coords="8,556,184,669"/>
+<area shape="rect" id="node3" href="$classhelper_1_1PillowLeakTestCase.html" title="{helper.PillowLeakTestCase\n|+ iterations\l+ mem_limit\l|&#45; _get_mem_usage()\l&#45; _test_leak()\l}" alt="" coords="6,408,186,508"/>
+<area shape="rect" id="node4" href="$classhelper_1_1PillowTestCase.html" title="{helper.PillowTestCase\n|+ currentResult\l|+ __init__()\l+ __str__()\l+ run()\l+ delete_tempfile()\l+ assert_deep_equal()\l+ assert_image()\l+ assert_image_equal()\l+ assert_image_equal\l_tofile()\l+ assert_image_similar()\l+ assert_image_similar\l_tofile()\land 6 more...\l}" alt="" coords="12,127,180,360"/>
+</map>

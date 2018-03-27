@@ -1,0 +1,6 @@
+<map id="test_file_tiff.TestFileTiff.test_12bit_rawmode" name="test_file_tiff.TestFileTiff.test_12bit_rawmode">
+<area shape="rect" id="node2" href="$classhelper_1_1PillowTestCase.html#a6340ec7fb3f13fa48601a73f96064727" title="helper.PillowTestCase.assert\l_image_equal_tofile" alt="" coords="240,5,431,44"/>
+<area shape="rect" id="node3" href="$classhelper_1_1PillowTestCase.html#afd402f5f35ba985abdc4c108624af72d" title="helper.PillowTestCase.assert\l_image_similar" alt="" coords="240,68,431,107"/>
+<area shape="rect" id="node4" href="$classhelper_1_1PillowTestCase.html#aa04b2a94e39f0c98c561f24d9f4a6899" title="helper.PillowTestCase.assert\l_image_equal" alt="" coords="240,131,431,169"/>
+<area shape="rect" id="node5" href="$classhelper_1_1PillowTestCase.html#afded12287f5c99899d62ba7b5a2ee992" title="helper.PillowTestCase.tempfile" alt="" coords="235,193,437,219"/>
+</map>

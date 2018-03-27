@@ -1,0 +1,4 @@
+<map id="RenderManager::findCamera" name="RenderManager::findCamera">
+<area shape="rect" id="node2" href="$classGameManager.html#a38098a346a5e7901440b85e1152055db" title="The singleton instance of the GameManager. " alt="" coords="274,29,441,55"/>
+<area shape="rect" id="node3" href="$classGameManager.html#a233955a99f7ac726896b33ef323ee8eb" title="Gets the list of all active objects in our GameManager. " alt="" coords="247,79,468,104"/>
+</map>

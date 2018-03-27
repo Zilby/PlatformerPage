@@ -1,0 +1,8 @@
+<map id="ThirdParty/include/SDL2/SDL_timer.h" name="ThirdParty/include/SDL2/SDL_timer.h">
+<area shape="rect" id="node2" href="$SDL__stdinc_8h.html" title="This is a general header that includes C language support. " alt="" coords="720,165,821,191"/>
+<area shape="rect" id="node5" href="$begin__code_8h.html" title="This file sets things up for C dynamic library function definitions, static inlined functions..." alt="" coords="31,385,132,411"/>
+<area shape="rect" id="node6" href="$close__code_8h.html" title="This file reverses the effects of begin_code.h and should be included after you finish any function a..." alt="" coords="1455,385,1555,411"/>
+<area shape="rect" id="node20" href="$SDL__error_8h.html" title="Simple error message routines for SDL. " alt="" coords="765,92,859,117"/>
+<area shape="rect" id="node3" href="$SDL__config_8h_source.html" title="SDL_config.h" alt="" coords="1229,239,1331,264"/>
+<area shape="rect" id="node4" href="$SDL__platform_8h.html" title="Try to get a standard set of platform defines. " alt="" coords="1223,312,1337,337"/>
+</map>

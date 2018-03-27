@@ -1,0 +1,5 @@
+<map id="AnimationRenderComponent::SwitchState" name="AnimationRenderComponent::SwitchState">
+<area shape="rect" id="node2" href="$classResourceManager.html#a91756683167c290b33b7525881122940" title="The singleton instance of the ResourceManager. " alt="" coords="255,5,443,31"/>
+<area shape="rect" id="node3" href="$classResourceManager.html#adea7f66f4eea16cea9eafcb7c5e40a3a" title="Loads an image from the given path Uses the stored image if already loaded. " alt="" coords="247,55,452,80"/>
+<area shape="rect" id="node4" href="$classRenderManager.html#ae461c908c30dca62528798b92a985a4a" title="The singleton instance of the RenderManager. " alt="" coords="500,55,675,80"/>
+</map>

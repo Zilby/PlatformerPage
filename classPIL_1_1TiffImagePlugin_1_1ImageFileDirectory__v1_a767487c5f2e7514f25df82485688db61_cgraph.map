@@ -1,0 +1,37 @@
+<map id="PIL.TiffImagePlugin.ImageFileDirectory_v1.to_v2" name="PIL.TiffImagePlugin.ImageFileDirectory_v1.to_v2">
+<area shape="rect" id="node2" href="$classPIL_1_1TiffImagePlugin_1_1ImageFileDirectory__v2.html#afee73762c215a82e6c9f3b04c51a497f" title="PIL.TiffImagePlugin.Image\lFileDirectory_v2._setitem" alt="" coords="258,5,436,44"/>
+<area shape="rect" id="node3" href="$classPIL_1_1FliImagePlugin_1_1FliImageFile.html#a220cc10a7b880f97ad62e62b8188bb67" title="PIL.FliImagePlugin.FliImage\lFile._seek" alt="" coords="253,68,441,107"/>
+<area shape="rect" id="node4" href="$classPIL_1_1GifImagePlugin_1_1GifImageFile.html#a28eb8462a0c13a44e29d5302df86b7bf" title="PIL.GifImagePlugin.GifImage\lFile._seek" alt="" coords="250,131,444,169"/>
+<area shape="rect" id="node5" href="$classPIL_1_1TiffImagePlugin_1_1TiffImageFile.html#a0c01fa9a2b72022b9344877479947f9f" title="PIL.TiffImagePlugin.Tiff\lImageFile._seek" alt="" coords="268,193,426,232"/>
+<area shape="rect" id="node6" href="$classPIL_1_1WebPImagePlugin_1_1WebPImageFile.html#acee088fd021417773a089e317c54b022" title="PIL.WebPImagePlugin.WebPImage\lFile._seek" alt="" coords="231,256,463,295"/>
+<area shape="rect" id="node7" href="$classPIL_1_1ContainerIO_1_1ContainerIO.html#afc043d99ba3496a93897d868c69e0779" title="PIL.ContainerIO.Container\lIO.tell" alt="" coords="258,319,436,357"/>
+<area shape="rect" id="node8" href="$classPIL_1_1DcxImagePlugin_1_1DcxImageFile.html#ab927373560f4d20356085f430ad53fdf" title="PIL.DcxImagePlugin.DcxImage\lFile.tell" alt="" coords="244,381,450,420"/>
+<area shape="rect" id="node9" href="$classPIL_1_1FliImagePlugin_1_1FliImageFile.html#a30ecc8ec3af4b315224c23adfd4d4aeb" title="PIL.FliImagePlugin.FliImage\lFile.tell" alt="" coords="253,444,441,483"/>
+<area shape="rect" id="node10" href="$classPIL_1_1GifImagePlugin_1_1GifImageFile.html#a11223e8e5ac1836664c2a450c489a107" title="PIL.GifImagePlugin.GifImage\lFile.tell" alt="" coords="250,507,444,545"/>
+<area shape="rect" id="node11" href="$classPIL_1_1ImImagePlugin_1_1ImImageFile.html#ae6c067dd61a3cb456c4fa0208cd4e504" title="PIL.ImImagePlugin.ImImage\lFile.tell" alt="" coords="252,569,442,608"/>
+<area shape="rect" id="node12" href="$classPIL_1_1MicImagePlugin_1_1MicImageFile.html#a7a6b8dc54d3a9a0320122c30a9bab012" title="PIL.MicImagePlugin.MicImage\lFile.tell" alt="" coords="246,632,448,671"/>
+<area shape="rect" id="node13" href="$classPIL_1_1MpoImagePlugin_1_1MpoImageFile.html#a72ee54e548ee76e2dedd1aa759738b05" title="PIL.MpoImagePlugin.MpoImage\lFile.tell" alt="" coords="241,695,453,733"/>
+<area shape="rect" id="node14" href="$classPIL_1_1PsdImagePlugin_1_1PsdImageFile.html#a8a3cc1cd43684dce0ee73ce3fe277e43" title="PIL.PsdImagePlugin.PsdImage\lFile.tell" alt="" coords="244,757,450,796"/>
+<area shape="rect" id="node15" href="$classPIL_1_1SpiderImagePlugin_1_1SpiderImageFile.html#ae5cf33a08c8f480571f2cde0364089ae" title="PIL.SpiderImagePlugin.Spider\lImageFile.tell" alt="" coords="247,820,447,859"/>
+<area shape="rect" id="node16" href="$classPIL_1_1TiffImagePlugin_1_1TiffImageFile.html#a4d2003c38a15ac8f3e59e43372026d1a" title="PIL.TiffImagePlugin.Tiff\lImageFile.tell" alt="" coords="268,883,426,921"/>
+<area shape="rect" id="node17" href="$classPIL_1_1TiffImagePlugin_1_1AppendingTiffWriter.html#aba62a36e5f511c6130ae7aeba2cd7522" title="PIL.TiffImagePlugin.Appending\lTiffWriter.tell" alt="" coords="245,945,449,984"/>
+<area shape="rect" id="node18" href="$classPIL_1_1WebPImagePlugin_1_1WebPImageFile.html#a3717e7e236e59e395aa1ad608ab1aeff" title="PIL.WebPImagePlugin.WebPImage\lFile.tell" alt="" coords="231,1008,463,1047"/>
+<area shape="rect" id="node19" href="$classPIL_1_1ContainerIO_1_1ContainerIO.html#a4e7c8e59a627fa93533ffe2bdbeb2ec4" title="PIL.ContainerIO.Container\lIO.seek" alt="" coords="258,1071,436,1109"/>
+<area shape="rect" id="node20" href="$classPIL_1_1DcxImagePlugin_1_1DcxImageFile.html#aaa6e0d906883c984e5ebaf8871e66f22" title="PIL.DcxImagePlugin.DcxImage\lFile.seek" alt="" coords="244,1133,450,1172"/>
+<area shape="rect" id="node21" href="$classPIL_1_1EpsImagePlugin_1_1PSFile.html#afe6fba49b56b58bbf8cd263d66155e93" title="PIL.EpsImagePlugin.PSFile.seek" alt="" coords="239,1196,456,1221"/>
+<area shape="rect" id="node22" href="$classPIL_1_1FliImagePlugin_1_1FliImageFile.html#a105341faf632e7633113b75f71f7cc41" title="PIL.FliImagePlugin.FliImage\lFile.seek" alt="" coords="253,1245,441,1284"/>
+<area shape="rect" id="node23" href="$classPIL_1_1GifImagePlugin_1_1GifImageFile.html#acbb15a8e96f4821b3dd476becabb639f" title="PIL.GifImagePlugin.GifImage\lFile.seek" alt="" coords="250,1308,444,1347"/>
+<area shape="rect" id="node24" href="$classPIL_1_1ImImagePlugin_1_1ImImageFile.html#ae9406e6d0d20f63e726c616eb0b4bbba" title="PIL.ImImagePlugin.ImImage\lFile.seek" alt="" coords="252,1371,442,1409"/>
+<area shape="rect" id="node25" href="$classPIL_1_1MicImagePlugin_1_1MicImageFile.html#a2f2ac12b6b6e4bbe36722bc077e908f5" title="PIL.MicImagePlugin.MicImage\lFile.seek" alt="" coords="246,1433,448,1472"/>
+<area shape="rect" id="node26" href="$classPIL_1_1MpoImagePlugin_1_1MpoImageFile.html#a28b4d50ab96f5be029653c66715076c3" title="PIL.MpoImagePlugin.MpoImage\lFile.seek" alt="" coords="241,1496,453,1535"/>
+<area shape="rect" id="node27" href="$classPIL_1_1PsdImagePlugin_1_1PsdImageFile.html#a1cd54ce780962c9d28ec404b71d00a2b" title="PIL.PsdImagePlugin.PsdImage\lFile.seek" alt="" coords="244,1559,450,1597"/>
+<area shape="rect" id="node28" href="$classPIL_1_1SpiderImagePlugin_1_1SpiderImageFile.html#afc3e26f92829ecdfceb6576086ddcaae" title="PIL.SpiderImagePlugin.Spider\lImageFile.seek" alt="" coords="247,1621,447,1660"/>
+<area shape="rect" id="node29" href="$classPIL_1_1TiffImagePlugin_1_1TiffImageFile.html#a3b2f701c0ab9cdf1218b21ae41db794f" title="PIL.TiffImagePlugin.Tiff\lImageFile.seek" alt="" coords="268,1684,426,1723"/>
+<area shape="rect" id="node30" href="$classPIL_1_1TiffImagePlugin_1_1AppendingTiffWriter.html#a1bd16297de045c237f28fde9000fd024" title="PIL.TiffImagePlugin.Appending\lTiffWriter.seek" alt="" coords="245,1747,449,1785"/>
+<area shape="rect" id="node31" href="$classPIL_1_1WebPImagePlugin_1_1WebPImageFile.html#ad5bf16dbdc311c8edcd919e33515f22e" title="PIL.WebPImagePlugin.WebPImage\lFile.seek" alt="" coords="231,1809,463,1848"/>
+<area shape="rect" id="node32" href="$classPIL_1_1ImageFile_1_1ImageFile.html#ae8b0b292cc6ba42ff295fd17ca9c505e" title="PIL.ImageFile.ImageFile.\l_seek_check" alt="" coords="262,1872,432,1911"/>
+<area shape="rect" id="node33" href="$classPIL_1_1TiffImagePlugin_1_1TiffImageFile.html#a1acdb65044c9067b884506a1b4c7ac5c" title="PIL.TiffImagePlugin.Tiff\lImageFile._setup" alt="" coords="268,1935,426,1973"/>
+<area shape="rect" id="node34" href="$classPIL_1_1TiffImagePlugin_1_1TiffImageFile.html#ab811ccf4c27ea8f21d4e167cf320e76d" title="PIL.TiffImagePlugin.Tiff\lImageFile._load_libtiff" alt="" coords="268,1997,426,2036"/>
+<area shape="rect" id="node35" href="$classPIL_1_1ImageFile_1_1ImageFile.html#aaf6b870f18cc00b6a708da1e2fe61f03" title="PIL.ImageFile.ImageFile.load\l_prepare" alt="" coords="511,1965,706,2004"/>
+<area shape="rect" id="node36" href="$classPIL_1_1TiffImagePlugin_1_1TiffImageFile.html#aee0edd816673f536b3f20b6b1c155c1f" title="PIL.TiffImagePlugin.Tiff\lImageFile._decoder" alt="" coords="529,2028,688,2067"/>
+</map>

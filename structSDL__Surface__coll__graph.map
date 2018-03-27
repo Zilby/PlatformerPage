@@ -1,0 +1,5 @@
+<map id="SDL_Surface" name="SDL_Surface">
+<area shape="rect" id="node2" href="$structSDL__PixelFormat.html" title="{SDL_PixelFormat\n|+ format\l+ BitsPerPixel\l+ BytesPerPixel\l+ padding\l+ Rmask\l+ Gmask\l+ Bmask\l+ Amask\l+ Rloss\l+ Gloss\land 7 more...\l|}" alt="" coords="20,341,146,548"/>
+<area shape="rect" id="node3" href="$structSDL__Palette.html" title="{SDL_Palette\n|+ ncolors\l+ version\l+ refcount\l|}" alt="" coords="5,180,102,280"/>
+<area shape="rect" id="node4" href="$structSDL__Color.html" title="{SDL_Color\n|+ r\l+ g\l+ b\l+ a\l|}" alt="" coords="10,5,97,119"/>
+</map>

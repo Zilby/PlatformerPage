@@ -1,0 +1,6 @@
+<map id="test_file_libtiff.TestFileLibTiff.test_g4_write" name="test_file_libtiff.TestFileLibTiff.test_g4_write">
+<area shape="rect" id="node2" href="$classhelper_1_1PillowTestCase.html#afded12287f5c99899d62ba7b5a2ee992" title="helper.PillowTestCase.tempfile" alt="" coords="445,12,647,37"/>
+<area shape="rect" id="node3" href="$classtest__file__libtiff_1_1LibTiffTestCase.html#ae24f6e0a2e6c16ad0f4688730e2ebbe2" title="test_file_libtiff.LibTiff\lTestCase._assert_noerr" alt="" coords="219,33,382,72"/>
+<area shape="rect" id="node4" href="$classhelper_1_1PillowTestCase.html#aa04b2a94e39f0c98c561f24d9f4a6899" title="helper.PillowTestCase.assert\l_image_equal" alt="" coords="205,96,397,135"/>
+<area shape="rect" id="node5" href="$classhelper_1_1PillowTestCase.html#a6340ec7fb3f13fa48601a73f96064727" title="helper.PillowTestCase.assert\l_image_equal_tofile" alt="" coords="205,159,397,197"/>
+</map>

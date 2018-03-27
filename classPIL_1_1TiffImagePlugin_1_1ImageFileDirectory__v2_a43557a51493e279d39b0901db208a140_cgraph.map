@@ -1,0 +1,7 @@
+<map id="PIL.TiffImagePlugin.ImageFileDirectory_v2.__init__" name="PIL.TiffImagePlugin.ImageFileDirectory_v2.__init__">
+<area shape="rect" id="node2" href="$classPIL_1_1ImageFile_1_1Parser.html#abc12bc5d87351871fb433ad3e559ae0f" title="PIL.ImageFile.Parser.reset" alt="" coords="263,5,442,31"/>
+<area shape="rect" id="node3" href="$classPIL_1_1TiffImagePlugin_1_1ImageFileDirectory__v2.html#ab37501fecb6a9b9e001ff5b5c6b6d82b" title="PIL.TiffImagePlugin.Image\lFileDirectory_v2.reset" alt="" coords="264,55,442,93"/>
+<area shape="rect" id="node4" href="$classPIL_1_1ImageSequence_1_1Iterator.html#ac30346a79b6ca514a15c1be125b82903" title="PIL.ImageSequence.Iterator.next" alt="" coords="245,117,461,143"/>
+<area shape="rect" id="node5" href="$classPIL_1_1MpegImagePlugin_1_1BitStream.html#ade29715740736e194d8760d653bfa114" title="PIL.MpegImagePlugin.BitStream.next" alt="" coords="231,167,475,192"/>
+<area shape="rect" id="node6" href="$classPIL_1_1TiffImagePlugin_1_1ImageFileDirectory__v2.html#aa5d60d9cc057b993a81da876aa918293" title="PIL.TiffImagePlugin.Image\lFileDirectory_v2._unpack" alt="" coords="264,216,442,255"/>
+</map>

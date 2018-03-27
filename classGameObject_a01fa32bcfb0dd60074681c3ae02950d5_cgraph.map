@@ -1,0 +1,4 @@
+<map id="GameObject::Create" name="GameObject::Create">
+<area shape="rect" id="node2" href="$classGameObject.html#a261cf9b8bf31e0afaa00a21ce14d1b5a" title="Constructs a GameObject. " alt="" coords="197,5,375,31"/>
+<area shape="rect" id="node3" href="$classGameManager.html#a38098a346a5e7901440b85e1152055db" title="The singleton instance of the GameManager. " alt="" coords="202,79,370,104"/>
+</map>

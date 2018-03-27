@@ -1,0 +1,4 @@
+<map id="TileMap::GetTileIndexFromPoint" name="TileMap::GetTileIndexFromPoint">
+<area shape="rect" id="node2" href="$classTileMap.html#abd9433060fcfb95846e29dfa76ea804b" title="Gets the width of this tile map based on its GameObject&#39;s scale. " alt="" coords="235,5,367,31"/>
+<area shape="rect" id="node3" href="$classTileMap.html#a7f953fbcacea02558922b80f87c2e9b7" title="Gets the height of this tile map based on its GameObject&#39;s scale. " alt="" coords="235,55,367,80"/>
+</map>

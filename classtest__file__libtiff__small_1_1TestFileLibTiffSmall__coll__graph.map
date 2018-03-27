@@ -1,0 +1,4 @@
+<map id="test_file_libtiff_small.TestFileLibTiffSmall" name="test_file_libtiff_small.TestFileLibTiffSmall">
+<area shape="rect" id="node2" href="$classtest__file__libtiff_1_1LibTiffTestCase.html" title="{test_file_libtiff.LibTiff\lTestCase\n||+ setUp()\l&#45; _assert_noerr()\l}" alt="" coords="27,408,168,508"/>
+<area shape="rect" id="node3" href="$classhelper_1_1PillowTestCase.html" title="{helper.PillowTestCase\n|+ currentResult\l|+ __init__()\l+ __str__()\l+ run()\l+ delete_tempfile()\l+ assert_deep_equal()\l+ assert_image()\l+ assert_image_equal()\l+ assert_image_equal\l_tofile()\l+ assert_image_similar()\l+ assert_image_similar\l_tofile()\land 6 more...\l}" alt="" coords="14,127,181,360"/>
+</map>

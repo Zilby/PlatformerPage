@@ -1,0 +1,5 @@
+<map id="GameManager::GetActiveObjects" name="GameManager::GetActiveObjects">
+<area shape="rect" id="node2" href="$classRenderManager.html#a58cb27856ad141e16313f5d646e12c38" title="Finds a camera in the current world. " alt="" coords="274,5,472,31"/>
+<area shape="rect" id="node3" href="$classGoal.html#acb8ffa87b9c3925c8d238fa0894b9e35" title="Updates this component. " alt="" coords="289,55,458,80"/>
+<area shape="rect" id="node4" href="$classPlayer.html#af4aa293ba90c5b76c54a4cc0da30eae9" title="Updates this component. " alt="" coords="284,104,462,129"/>
+</map>

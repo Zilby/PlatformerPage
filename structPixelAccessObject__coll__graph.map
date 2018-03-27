@@ -1,0 +1,5 @@
+<map id="PixelAccessObject" name="PixelAccessObject">
+<area shape="rect" id="node2" href="$structImagingObject.html" title="{ImagingObject\n||}" alt="" coords="18,448,125,521"/>
+<area shape="rect" id="node3" href="$structImagingMemoryInstance.html" title="{ImagingMemoryInstance\n|+ mode\l+ type\l+ depth\l+ bands\l+ xsize\l+ ysize\l+ image8\l+ image32\l+ image\l+ block\l+ pixelsize\l+ linesize\l+ destroy\l|}" alt="" coords="97,153,264,387"/>
+<area shape="rect" id="node5" href="$structImagingMemoryBlock.html" title="{ImagingMemoryBlock\n|+ ptr\l+ size\l|}" alt="" coords="106,5,255,92"/>
+</map>

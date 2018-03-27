@@ -1,0 +1,8 @@
+<map id="TextRenderComponent" name="TextRenderComponent">
+<area shape="rect" id="node2" href="$classRenderComponent.html" title="A RenderComponent class. " alt="" coords="227,759,381,912"/>
+<area shape="rect" id="node3" href="$classComponent.html" title="Class representing a component of a GameObject. " alt="" coords="195,609,371,709"/>
+<area shape="rect" id="node5" href="$classGameObject.html" title="A GameObject class. " alt="" coords="216,207,350,413"/>
+<area shape="rect" id="node8" href="$classVector2.html" title="Basic class representation of a vector 2 with an x and y coordinate. " alt="" coords="379,5,486,132"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="414,799,493,872"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="395,616,520,703"/>
+</map>

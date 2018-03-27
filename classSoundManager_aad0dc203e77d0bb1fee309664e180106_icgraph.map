@@ -1,0 +1,4 @@
+<map id="SoundManager::PlaySound" name="SoundManager::PlaySound">
+<area shape="rect" id="node2" href="$classLevelLoader.html#a201e82653d55bc677ff007250284caf6" title="Creates a level using the given path and tile list. " alt="" coords="240,5,414,31"/>
+<area shape="rect" id="node3" href="$classPlayer.html#af4aa293ba90c5b76c54a4cc0da30eae9" title="Updates this component. " alt="" coords="238,55,416,80"/>
+</map>

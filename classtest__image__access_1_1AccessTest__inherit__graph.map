@@ -1,0 +1,8 @@
+<map id="test_image_access.AccessTest" name="test_image_access.AccessTest">
+<area shape="rect" id="node4" href="$classtest__image__access_1_1TestCffi.html" title="{test_image_access.TestCffi\n|&#45; _need_cffi_access\l|+ setUp()\l+ test_get_vs_c()\l+ test_set_vs_c()\l+ test_not_implemented()\l+ test_reference_counting()\l&#45; _test_get_access()\l&#45; _test_set_access()\l}" alt="" coords="5,556,190,709"/>
+<area shape="rect" id="node5" href="$classtest__image__access_1_1TestImageGetPixel.html" title="{test_image_access.TestImage\lGetPixel\n||+ check()\l+ test_basic()\l+ test_signedness()\l+ color()\l}" alt="" coords="215,569,415,696"/>
+<area shape="rect" id="node7" href="$classtest__image__access_1_1TestImagePutPixel.html" title="{test_image_access.TestImage\lPutPixel\n||+ test_sanity()\l}" alt="" coords="440,589,641,676"/>
+<area shape="rect" id="node2" href="$classhelper_1_1PillowTestCase.html" title="{helper.PillowTestCase\n|+ currentResult\l|+ __init__()\l+ __str__()\l+ run()\l+ delete_tempfile()\l+ assert_deep_equal()\l+ assert_image()\l+ assert_image_equal()\l+ assert_image_equal\l_tofile()\l+ assert_image_similar()\l+ assert_image_similar\l_tofile()\land 6 more...\l}" alt="" coords="231,127,399,360"/>
+<area shape="rect" id="node6" href="$classtest__image__access_1_1TestCffiGetPixel.html" title="{test_image_access.TestCffi\lGetPixel\n|&#45; _need_cffi_access\l|+ setUp()\l}" alt="" coords="223,757,407,844"/>
+<area shape="rect" id="node8" href="$classtest__image__access_1_1TestCffiPutPixel.html" title="{test_image_access.TestCffi\lPutPixel\n|&#45; _need_cffi_access\l|+ setUp()\l}" alt="" coords="449,757,632,844"/>
+</map>

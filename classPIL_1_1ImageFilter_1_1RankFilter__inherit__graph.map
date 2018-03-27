@@ -1,0 +1,6 @@
+<map id="PIL.ImageFilter.RankFilter" name="PIL.ImageFilter.RankFilter">
+<area shape="rect" id="node4" href="$classPIL_1_1ImageFilter_1_1MaxFilter.html" title="{PIL.ImageFilter.MaxFilter\n|+ size\l+ rank\l+ name\l|+ __init__()\l+ __init__()\l}" alt="" coords="5,436,175,549"/>
+<area shape="rect" id="node5" href="$classPIL_1_1ImageFilter_1_1MedianFilter.html" title="{PIL.ImageFilter.MedianFilter\n|+ size\l+ rank\l+ name\l|+ __init__()\l+ __init__()\l}" alt="" coords="199,436,387,549"/>
+<area shape="rect" id="node6" href="$classPIL_1_1ImageFilter_1_1MinFilter.html" title="{PIL.ImageFilter.MinFilter\n|+ size\l+ rank\l+ name\l|+ __init__()\l+ __init__()\l}" alt="" coords="411,436,577,549"/>
+<area shape="rect" id="node2" href="$classPIL_1_1ImageFilter_1_1Filter.html" title="{PIL.ImageFilter.Filter\n||}" alt="" coords="221,127,365,200"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PIL.BmpImagePlugin.BmpImageFile" name="PIL.BmpImagePlugin.BmpImageFile">
+<area shape="rect" id="node5" href="$classPIL_1_1BmpImagePlugin_1_1DibImageFile.html" title="{PIL.BmpImagePlugin.DibImageFile\n|+ format\l+ format_description\l|&#45; _open()\l&#45; _open()\l}" alt="" coords="5,883,234,983"/>
+<area shape="rect" id="node6" href="$classPIL_1_1CurImagePlugin_1_1CurImageFile.html" title="Image plugin for Windows Cursor files. " alt="" coords="258,876,483,989"/>
+<area shape="rect" id="node2" href="$classPIL_1_1ImageFile_1_1ImageFile.html" title="{PIL.ImageFile.ImageFile\n|+ tile\l+ readonly\l+ decoderconfig\l+ decodermaxblock\l+ fp\l+ filename\l+ map\l+ im\l+ mode\l&#45; _min_frame\l&#45; _exclusive_fp\l|+ __init__()\l+ draft()\l+ verify()\l+ load()\l+ load_prepare()\l+ load_end()\l+ __init__()\l+ draft()\l+ verify()\l+ load()\l+ load_prepare()\l+ load_end()\l&#45; _seek_check()\l&#45; _seek_check()\l}" alt="" coords="162,127,328,507"/>
+</map>

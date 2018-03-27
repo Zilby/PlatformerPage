@@ -1,0 +1,4 @@
+<map id="PIL.ImageShow.DisplayViewer" name="PIL.ImageShow.DisplayViewer">
+<area shape="rect" id="node2" href="$classPIL_1_1ImageShow_1_1UnixViewer.html" title="{PIL.ImageShow.UnixViewer\n|+ format\l+ options\l|+ show_file()\l+ show_file()\l}" alt="" coords="14,408,199,508"/>
+<area shape="rect" id="node3" href="$classPIL_1_1ImageShow_1_1Viewer.html" title="{PIL.ImageShow.Viewer\n|+ format\l+ options\l|+ show()\l+ get_format()\l+ get_command()\l+ save_image()\l+ show_image()\l+ show_file()\l+ show()\l+ get_format()\l+ get_command()\l+ save_image()\l+ show_image()\l+ show_file()\l}" alt="" coords="27,127,186,360"/>
+</map>

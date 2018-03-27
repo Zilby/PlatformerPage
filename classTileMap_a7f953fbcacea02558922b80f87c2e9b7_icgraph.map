@@ -1,0 +1,5 @@
+<map id="TileMap::TileSizeY" name="TileMap::TileSizeY">
+<area shape="rect" id="node2" href="$classTileMap.html#a3dc487f79c4e1966751523226fb93e32" title="Gets the tile index from the given point. " alt="" coords="194,5,376,44"/>
+<area shape="rect" id="node4" href="$classTileMap.html#a4759ce89e7f421fc04ad7b4c2485a8a6" title="Gets the world space equivalent of the given index. " alt="" coords="185,68,385,107"/>
+<area shape="rect" id="node3" href="$classTileMap.html#a0df05561100011c9b0c921238c496f2c" title="Gets the tile type present at the given point. " alt="" coords="433,12,595,37"/>
+</map>

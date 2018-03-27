@@ -1,0 +1,4 @@
+<map id="_BoxNode" name="_BoxNode">
+<area shape="rect" id="node2" href="$struct__PixelList.html" title="{_PixelList\n|+ flag\l+ count\l|}" alt="" coords="61,355,139,441"/>
+<area shape="rect" id="node3" href="$unionPixel.html" title="{Pixel\n|+ r\l+ g\l+ b\l+ v\l+ v\l|}" alt="" coords="147,153,197,280"/>
+</map>

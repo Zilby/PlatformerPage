@@ -1,0 +1,9 @@
+<map id="test_file_jpeg.TestFileJpeg.gen_random_image" name="test_file_jpeg.TestFileJpeg.gen_random_image">
+<area shape="rect" id="node2" href="$classtest__file__bmp_1_1TestFileBmp.html#aaa7acb5653d40ce740fa5a428153edbf" title="test_file_bmp.TestFileBmp.roundtrip" alt="" coords="258,5,492,31"/>
+<area shape="rect" id="node3" href="$classtest__file__jpeg_1_1TestFileJpeg.html#a8691ffea5e787f1786b981dfc2ea63f9" title="test_file_jpeg.TestFileJpeg.roundtrip" alt="" coords="258,55,493,80"/>
+<area shape="rect" id="node4" href="$classhelper_1_1PillowTestCase.html#afded12287f5c99899d62ba7b5a2ee992" title="helper.PillowTestCase.tempfile" alt="" coords="274,104,476,129"/>
+<area shape="rect" id="node5" href="$classhelper_1_1PillowTestCase.html#aa04b2a94e39f0c98c561f24d9f4a6899" title="helper.PillowTestCase.assert\l_image_equal" alt="" coords="279,153,471,192"/>
+<area shape="rect" id="node6" href="$classhelper_1_1PillowTestCase.html#a1eb22a61b321bdffa82b214b48a6ffdd" title="helper.PillowTestCase.assert\l_image" alt="" coords="279,216,471,255"/>
+<area shape="rect" id="node7" href="$classhelper_1_1PillowTestCase.html#afd402f5f35ba985abdc4c108624af72d" title="helper.PillowTestCase.assert\l_image_similar" alt="" coords="279,279,471,317"/>
+<area shape="rect" id="node8" href="$classtest__file__jpeg_1_1TestFileJpeg.html#a92db26167d2a60b8c5ea444a1f460e37" title="test_file_jpeg.TestFileJpeg.\l_n_qtables_helper" alt="" coords="284,341,466,380"/>
+</map>

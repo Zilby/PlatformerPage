@@ -1,0 +1,5 @@
+<map id="RenderManager::init" name="RenderManager::init">
+<area shape="rect" id="node2" href="$classPIL_1_1ImageFile_1_1Parser.html#ada4551727462e59682d4864d40f7891a" title="PIL.ImageFile.Parser.close" alt="" coords="195,12,376,37"/>
+<area shape="rect" id="node3" href="$classPIL_1_1TiffImagePlugin_1_1TiffImageFile.html#ab811ccf4c27ea8f21d4e167cf320e76d" title="PIL.TiffImagePlugin.Tiff\lImageFile._load_libtiff" alt="" coords="424,5,583,44"/>
+<area shape="rect" id="node4" href="$classPIL_1_1TiffImagePlugin_1_1ImageFileDirectory__v1.html#a767487c5f2e7514f25df82485688db61" title="PIL.TiffImagePlugin.Image\lFileDirectory_v1.to_v2" alt="" coords="631,5,808,44"/>
+</map>

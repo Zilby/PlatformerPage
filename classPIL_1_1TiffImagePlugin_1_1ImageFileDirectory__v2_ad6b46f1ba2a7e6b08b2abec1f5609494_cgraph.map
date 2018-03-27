@@ -1,0 +1,10 @@
+<map id="PIL.TiffImagePlugin.ImageFileDirectory_v2.named" name="PIL.TiffImagePlugin.ImageFileDirectory_v2.named">
+<area shape="rect" id="node2" href="$classPIL_1_1TiffImagePlugin_1_1ImageFileDirectory__v2.html#afee73762c215a82e6c9f3b04c51a497f" title="PIL.TiffImagePlugin.Image\lFileDirectory_v2._setitem" alt="" coords="264,5,442,44"/>
+<area shape="rect" id="node3" href="$classPIL_1_1TiffImagePlugin_1_1ImageFileDirectory__v2.html#aa5d60d9cc057b993a81da876aa918293" title="PIL.TiffImagePlugin.Image\lFileDirectory_v2._unpack" alt="" coords="264,68,442,107"/>
+<area shape="rect" id="node4" href="$classPIL_1_1TiffImagePlugin_1_1ImageFileDirectory__v2.html#af4a85a38b604f90319499e416d0f376e" title="PIL.TiffImagePlugin.Image\lFileDirectory_v2._pack" alt="" coords="264,131,442,169"/>
+<area shape="rect" id="node5" href="$classPIL_1_1ImageFile_1_1Parser.html#abc12bc5d87351871fb433ad3e559ae0f" title="PIL.ImageFile.Parser.reset" alt="" coords="263,193,442,219"/>
+<area shape="rect" id="node6" href="$classPIL_1_1TiffImagePlugin_1_1ImageFileDirectory__v2.html#ab37501fecb6a9b9e001ff5b5c6b6d82b" title="PIL.TiffImagePlugin.Image\lFileDirectory_v2.reset" alt="" coords="264,243,442,281"/>
+<area shape="rect" id="node7" href="$classPIL_1_1TiffImagePlugin_1_1ImageFileDirectory__v2.html#ab5ce38ed58498d43bb3cc1b8953688d6" title="PIL.TiffImagePlugin.Image\lFileDirectory_v2._ensure_read" alt="" coords="251,305,455,344"/>
+<area shape="rect" id="node8" href="$classPIL_1_1ImageSequence_1_1Iterator.html#ac30346a79b6ca514a15c1be125b82903" title="PIL.ImageSequence.Iterator.next" alt="" coords="245,368,461,393"/>
+<area shape="rect" id="node9" href="$classPIL_1_1MpegImagePlugin_1_1BitStream.html#ade29715740736e194d8760d653bfa114" title="PIL.MpegImagePlugin.BitStream.next" alt="" coords="231,417,475,443"/>
+</map>

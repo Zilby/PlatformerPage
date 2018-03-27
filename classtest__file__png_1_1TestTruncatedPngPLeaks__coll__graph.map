@@ -1,0 +1,4 @@
+<map id="test_file_png.TestTruncatedPngPLeaks" name="test_file_png.TestTruncatedPngPLeaks">
+<area shape="rect" id="node2" href="$classhelper_1_1PillowLeakTestCase.html" title="{helper.PillowLeakTestCase\n|+ iterations\l+ mem_limit\l|&#45; _get_mem_usage()\l&#45; _test_leak()\l}" alt="" coords="7,408,188,508"/>
+<area shape="rect" id="node3" href="$classhelper_1_1PillowTestCase.html" title="{helper.PillowTestCase\n|+ currentResult\l|+ __init__()\l+ __str__()\l+ run()\l+ delete_tempfile()\l+ assert_deep_equal()\l+ assert_image()\l+ assert_image_equal()\l+ assert_image_equal\l_tofile()\l+ assert_image_similar()\l+ assert_image_similar\l_tofile()\land 6 more...\l}" alt="" coords="14,127,181,360"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="test_imagemorph.MorphTests.string_to_img" name="test_imagemorph.MorphTests.string_to_img">
+<area shape="rect" id="node2" href="$classtest__imagemorph_1_1MorphTests.html#adec3cdff9ce2315d5f6b7a9af58b32ec" title="test_imagemorph.MorphTests.img\l_to_string" alt="" coords="294,5,516,44"/>
+<area shape="rect" id="node3" href="$classtest__imagemorph_1_1MorphTests.html#a6e8f309468d532a4544d126ef08ace38" title="test_imagemorph.MorphTests.img\l_string_normalize" alt="" coords="294,68,516,107"/>
+<area shape="rect" id="node4" href="$classhelper_1_1PillowTestCase.html#aa04b2a94e39f0c98c561f24d9f4a6899" title="helper.PillowTestCase.assert\l_image_equal" alt="" coords="309,131,501,169"/>
+<area shape="rect" id="node5" href="$classtest__imagemorph_1_1MorphTests.html#af8ab407f6af4f8bf49a305941592633f" title="test_imagemorph.MorphTests.assert\l_img_equal_img_string" alt="" coords="287,193,524,232"/>
+<area shape="rect" id="node6" href="$classhelper_1_1PillowTestCase.html#afded12287f5c99899d62ba7b5a2ee992" title="helper.PillowTestCase.tempfile" alt="" coords="304,256,506,281"/>
+</map>

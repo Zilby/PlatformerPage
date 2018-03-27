@@ -1,0 +1,8 @@
+<map id="TileEditor" name="TileEditor">
+<area shape="rect" id="node2" href="$classComponent.html" title="Class representing a component of a GameObject. " alt="" coords="199,663,375,763"/>
+<area shape="rect" id="node4" href="$classGameObject.html" title="A GameObject class. " alt="" coords="216,207,350,413"/>
+<area shape="rect" id="node7" href="$classVector2.html" title="Basic class representation of a vector 2 with an x and y coordinate. " alt="" coords="379,5,486,132"/>
+<area shape="rect" id="node8" href="$classLevel.html" title="A class to represent a level in our game. " alt="" coords="398,609,490,816"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="406,475,485,548"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="383,267,508,353"/>
+</map>

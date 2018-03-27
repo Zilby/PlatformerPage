@@ -1,0 +1,5 @@
+<map id="RenderComponent::ScreenRegion" name="RenderComponent::ScreenRegion">
+<area shape="rect" id="node2" href="$classRenderComponent.html#a9fe587c5cb30d590b23251292104ef63" title="Renders this component based on the given camera. " alt="" coords="279,5,464,31"/>
+<area shape="rect" id="node3" href="$classTileRenderComponent.html#a1ea432cfe4aa5bfdbb3d8525b56ad35c" title="Makes a mega texture to render out of all of the tiles. " alt="" coords="294,55,449,93"/>
+<area shape="rect" id="node4" href="$classTileRenderComponent.html#ab1b729d166ca34af6da6e21c4404e152" title="Updates this component. " alt="" coords="512,55,667,93"/>
+</map>

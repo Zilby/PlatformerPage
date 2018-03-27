@@ -1,0 +1,4 @@
+<map id="RenderManager::GetRenderer" name="RenderManager::GetRenderer">
+<area shape="rect" id="node2" href="$classTileRenderComponent.html#a1ea432cfe4aa5bfdbb3d8525b56ad35c" title="Makes a mega texture to render out of all of the tiles. " alt="" coords="256,5,410,44"/>
+<area shape="rect" id="node3" href="$classTileRenderComponent.html#ab1b729d166ca34af6da6e21c4404e152" title="Updates this component. " alt="" coords="458,5,613,44"/>
+</map>

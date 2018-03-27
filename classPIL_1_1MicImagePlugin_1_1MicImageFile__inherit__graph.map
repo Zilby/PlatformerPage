@@ -1,0 +1,4 @@
+<map id="PIL.MicImagePlugin.MicImageFile" name="PIL.MicImagePlugin.MicImageFile">
+<area shape="rect" id="node2" href="$classPIL_1_1TiffImagePlugin_1_1TiffImageFile.html" title="Image plugin for TIFF files. " alt="" coords="38,555,196,1255"/>
+<area shape="rect" id="node3" href="$classPIL_1_1ImageFile_1_1ImageFile.html" title="{PIL.ImageFile.ImageFile\n|+ tile\l+ readonly\l+ decoderconfig\l+ decodermaxblock\l+ fp\l+ filename\l+ map\l+ im\l+ mode\l&#45; _min_frame\l&#45; _exclusive_fp\l|+ __init__()\l+ draft()\l+ verify()\l+ load()\l+ load_prepare()\l+ load_end()\l+ __init__()\l+ draft()\l+ verify()\l+ load()\l+ load_prepare()\l+ load_end()\l&#45; _seek_check()\l&#45; _seek_check()\l}" alt="" coords="34,127,200,507"/>
+</map>

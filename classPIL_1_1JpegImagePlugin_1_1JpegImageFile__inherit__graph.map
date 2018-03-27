@@ -1,0 +1,4 @@
+<map id="PIL.JpegImagePlugin.JpegImageFile" name="PIL.JpegImagePlugin.JpegImageFile">
+<area shape="rect" id="node5" href="$classPIL_1_1MpoImagePlugin_1_1MpoImageFile.html" title="Image plugin for MPO images. " alt="" coords="5,1009,239,1389"/>
+<area shape="rect" id="node2" href="$classPIL_1_1ImageFile_1_1ImageFile.html" title="{PIL.ImageFile.ImageFile\n|+ tile\l+ readonly\l+ decoderconfig\l+ decodermaxblock\l+ fp\l+ filename\l+ map\l+ im\l+ mode\l&#45; _min_frame\l&#45; _exclusive_fp\l|+ __init__()\l+ draft()\l+ verify()\l+ load()\l+ load_prepare()\l+ load_end()\l+ __init__()\l+ draft()\l+ verify()\l+ load()\l+ load_prepare()\l+ load_end()\l&#45; _seek_check()\l&#45; _seek_check()\l}" alt="" coords="39,127,205,507"/>
+</map>

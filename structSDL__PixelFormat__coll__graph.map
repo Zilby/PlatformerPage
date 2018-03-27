@@ -1,0 +1,4 @@
+<map id="SDL_PixelFormat" name="SDL_PixelFormat">
+<area shape="rect" id="node2" href="$structSDL__Palette.html" title="{SDL_Palette\n|+ ncolors\l+ version\l+ refcount\l|}" alt="" coords="5,180,102,280"/>
+<area shape="rect" id="node3" href="$structSDL__Color.html" title="{SDL_Color\n|+ r\l+ g\l+ b\l+ a\l|}" alt="" coords="10,5,97,119"/>
+</map>

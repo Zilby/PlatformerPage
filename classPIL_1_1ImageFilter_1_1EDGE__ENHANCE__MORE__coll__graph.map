@@ -1,0 +1,6 @@
+<map id="PIL.ImageFilter.EDGE_ENHANCE_MORE" name="PIL.ImageFilter.EDGE_ENHANCE_MORE">
+<area shape="rect" id="node2" href="$classPIL_1_1ImageFilter_1_1BuiltinFilter.html" title="{PIL.ImageFilter.BuiltinFilter\n||+ __init__()\l+ __init__()\l}" alt="" coords="5,549,186,636"/>
+<area shape="rect" id="node3" href="$classPIL_1_1ImageFilter_1_1Kernel.html" title="{PIL.ImageFilter.Kernel\n|+ filterargs\l|+ __init__()\l+ filter()\l+ __init__()\l+ filter()\l}" alt="" coords="19,387,172,500"/>
+<area shape="rect" id="node4" href="$classPIL_1_1ImageFilter_1_1MultibandFilter.html" title="{PIL.ImageFilter.Multiband\lFilter\n||}" alt="" coords="9,251,182,337"/>
+<area shape="rect" id="node5" href="$classPIL_1_1ImageFilter_1_1Filter.html" title="{PIL.ImageFilter.Filter\n||}" alt="" coords="23,128,168,201"/>
+</map>

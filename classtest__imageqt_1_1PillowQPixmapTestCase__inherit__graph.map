@@ -1,0 +1,5 @@
+<map id="test_imageqt.PillowQPixmapTestCase" name="test_imageqt.PillowQPixmapTestCase">
+<area shape="rect" id="node4" href="$classtest__image__fromqpixmap_1_1TestFromQPixmap.html" title="{test_image_fromqpixmap.Test\lFromQPixmap\n||+ roundtrip()\l+ test_sanity_1()\l+ test_sanity_rgb()\l+ test_sanity_rgba()\l+ test_sanity_l()\l+ test_sanity_p()\l}" alt="" coords="5,409,205,563"/>
+<area shape="rect" id="node5" href="$classtest__image__toqpixmap_1_1TestToQPixmap.html" title="{test_image_toqpixmap.Test\lToQPixmap\n||+ test_sanity()\l}" alt="" coords="229,443,413,529"/>
+<area shape="rect" id="node2" href="$classtest__imageqt_1_1PillowQtTestCase.html" title="{test_imageqt.PillowQtTestCase\n||+ setUp()\l+ tearDown()\l}" alt="" coords="110,127,316,213"/>
+</map>

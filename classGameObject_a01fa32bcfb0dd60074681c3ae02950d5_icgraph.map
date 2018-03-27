@@ -1,0 +1,4 @@
+<map id="GameObject::Create" name="GameObject::Create">
+<area shape="rect" id="node2" href="$classLevelLoader.html#a201e82653d55bc677ff007250284caf6" title="Creates a level using the given path and tile list. " alt="" coords="197,5,371,31"/>
+<area shape="rect" id="node3" href="$classTileEditor.html#a8e445c23950396325da9b4725d8bd50b" title="Constructs a new tile editor. " alt="" coords="214,55,354,80"/>
+</map>

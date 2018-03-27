@@ -1,0 +1,8 @@
+<map id="PIL.ImageShow.Viewer" name="PIL.ImageShow.Viewer">
+<area shape="rect" id="node3" href="$classPIL_1_1ImageShow_1_1MacViewer.html" title="{PIL.ImageShow.MacViewer\n|+ format\l+ options\l|+ get_command()\l+ get_command()\l}" alt="" coords="23,408,207,508"/>
+<area shape="rect" id="node4" href="$classPIL_1_1ImageShow_1_1UnixViewer.html" title="{PIL.ImageShow.UnixViewer\n|+ format\l+ options\l|+ show_file()\l+ show_file()\l}" alt="" coords="231,408,417,508"/>
+<area shape="rect" id="node8" href="$classPIL_1_1ImageShow_1_1WindowsViewer.html" title="{PIL.ImageShow.WindowsViewer\n|+ format\l|+ get_command()\l+ get_command()\l}" alt="" coords="441,415,655,501"/>
+<area shape="rect" id="node5" href="$classPIL_1_1ImageShow_1_1DisplayViewer.html" title="{PIL.ImageShow.DisplayViewer\n||+ get_command_ex()\l+ get_command_ex()\l}" alt="" coords="5,556,208,643"/>
+<area shape="rect" id="node6" href="$classPIL_1_1ImageShow_1_1EogViewer.html" title="{PIL.ImageShow.EogViewer\n||+ get_command_ex()\l+ get_command_ex()\l}" alt="" coords="233,556,415,643"/>
+<area shape="rect" id="node7" href="$classPIL_1_1ImageShow_1_1XVViewer.html" title="{PIL.ImageShow.XVViewer\n||+ get_command_ex()\l+ get_command_ex()\l}" alt="" coords="440,556,616,643"/>
+</map>

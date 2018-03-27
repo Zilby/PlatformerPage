@@ -1,0 +1,3 @@
+<map id="PIL.PngImagePlugin.ChunkStream" name="PIL.PngImagePlugin.ChunkStream">
+<area shape="rect" id="node3" href="$classPIL_1_1PngImagePlugin_1_1PngStream.html" title="{PIL.PngImagePlugin.PngStream\n|+ im_info\l+ im_text\l+ im_size\l+ im_mode\l+ im_tile\l+ im_palette\l+ text_memory\l+ im_rawmode\l+ im_idat\l|+ __init__()\l+ check_text_memory()\l+ chunk_iCCP()\l+ chunk_IHDR()\l+ chunk_IDAT()\l+ chunk_IEND()\l+ chunk_PLTE()\l+ chunk_tRNS()\l+ chunk_gAMA()\l+ chunk_cHRM()\land 20 more...\l}" alt="" coords="5,421,219,735"/>
+</map>

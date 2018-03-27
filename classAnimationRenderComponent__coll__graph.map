@@ -1,0 +1,9 @@
+<map id="AnimationRenderComponent" name="AnimationRenderComponent">
+<area shape="rect" id="node2" href="$classRenderComponent.html" title="A RenderComponent class. " alt="" coords="206,797,360,951"/>
+<area shape="rect" id="node3" href="$classComponent.html" title="Class representing a component of a GameObject. " alt="" coords="195,623,371,723"/>
+<area shape="rect" id="node5" href="$classGameObject.html" title="A GameObject class. " alt="" coords="216,207,350,413"/>
+<area shape="rect" id="node8" href="$classVector2.html" title="Basic class representation of a vector 2 with an x and y coordinate. " alt="" coords="379,5,486,132"/>
+<area shape="rect" id="node10" href="$structAnimation.html" title="Struct for a single animation. " alt="" coords="400,609,549,736"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="435,475,514,548"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="412,267,537,353"/>
+</map>

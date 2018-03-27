@@ -1,0 +1,6 @@
+<map id="Level::Height" name="Level::Height">
+<area shape="rect" id="node2" href="$classLevel.html#a46aa3292993adb5e9b9952311a0892ce" title="Saves this level. " alt="" coords="161,5,252,31"/>
+<area shape="rect" id="node4" href="$classLevel.html#a871bd34c9499d898397be608969ade44" title="Adds a column to this level. " alt="" coords="154,55,259,80"/>
+<area shape="rect" id="node5" href="$classLevel.html#aa7267093fc69fdb217cda35449ba716a" title="Removes a row from this level. " alt="" coords="152,104,261,129"/>
+<area shape="rect" id="node3" href="$classLevel.html#a249eac1e8f19ff44134efa5e986feaca" title="Cleanly destroys this level. " alt="" coords="309,5,409,31"/>
+</map>

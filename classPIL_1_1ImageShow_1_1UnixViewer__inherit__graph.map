@@ -1,0 +1,6 @@
+<map id="PIL.ImageShow.UnixViewer" name="PIL.ImageShow.UnixViewer">
+<area shape="rect" id="node4" href="$classPIL_1_1ImageShow_1_1DisplayViewer.html" title="{PIL.ImageShow.DisplayViewer\n||+ get_command_ex()\l+ get_command_ex()\l}" alt="" coords="5,556,208,643"/>
+<area shape="rect" id="node5" href="$classPIL_1_1ImageShow_1_1EogViewer.html" title="{PIL.ImageShow.EogViewer\n||+ get_command_ex()\l+ get_command_ex()\l}" alt="" coords="233,556,415,643"/>
+<area shape="rect" id="node6" href="$classPIL_1_1ImageShow_1_1XVViewer.html" title="{PIL.ImageShow.XVViewer\n||+ get_command_ex()\l+ get_command_ex()\l}" alt="" coords="440,556,616,643"/>
+<area shape="rect" id="node2" href="$classPIL_1_1ImageShow_1_1Viewer.html" title="{PIL.ImageShow.Viewer\n|+ format\l+ options\l|+ show()\l+ get_format()\l+ get_command()\l+ save_image()\l+ show_image()\l+ show_file()\l+ show()\l+ get_format()\l+ get_command()\l+ save_image()\l+ show_image()\l+ show_file()\l}" alt="" coords="245,127,403,360"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="test_imageqt.PillowQtTestCase" name="test_imageqt.PillowQtTestCase">
+<area shape="rect" id="node3" href="$classtest__image__fromqimage_1_1TestFromQImage.html" title="{test_image_fromqimage.Test\lFromQImage\n|+ files_to_test\l|+ roundtrip()\l+ test_sanity_1()\l+ test_sanity_rgb()\l+ test_sanity_rgba()\l+ test_sanity_l()\l+ test_sanity_p()\l}" alt="" coords="5,261,198,415"/>
+<area shape="rect" id="node4" href="$classtest__image__toqimage_1_1TestToQImage.html" title="{test_image_toqimage.Test\lToQImage\n||+ test_sanity()\l+ test_segfault()\l}" alt="" coords="222,288,399,388"/>
+<area shape="rect" id="node5" href="$classtest__imageqt_1_1PillowQPixmapTestCase.html" title="{test_imageqt.PillowQPixmap\lTestCase\n|+ app\l|+ setUp()\l+ tearDown()\l}" alt="" coords="423,288,614,388"/>
+<area shape="rect" id="node8" href="$classtest__imageqt_1_1TestImageQt.html" title="{test_imageqt.TestImageQt\n||+ test_rgb()\l+ test_image()\l}" alt="" coords="638,295,815,381"/>
+<area shape="rect" id="node6" href="$classtest__image__fromqpixmap_1_1TestFromQPixmap.html" title="{test_image_fromqpixmap.Test\lFromQPixmap\n||+ roundtrip()\l+ test_sanity_1()\l+ test_sanity_rgb()\l+ test_sanity_rgba()\l+ test_sanity_l()\l+ test_sanity_p()\l}" alt="" coords="311,463,511,616"/>
+<area shape="rect" id="node7" href="$classtest__image__toqpixmap_1_1TestToQPixmap.html" title="{test_image_toqpixmap.Test\lToQPixmap\n||+ test_sanity()\l}" alt="" coords="535,496,719,583"/>
+</map>

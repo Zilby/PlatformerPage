@@ -1,0 +1,6 @@
+<map id="TileRenderComponent" name="TileRenderComponent">
+<area shape="rect" id="node2" href="$classRenderComponent.html" title="A RenderComponent class. " alt="" coords="290,785,444,939"/>
+<area shape="rect" id="node3" href="$classComponent.html" title="Class representing a component of a GameObject. " alt="" coords="267,636,443,736"/>
+<area shape="rect" id="node5" href="$classGameObject.html" title="A GameObject class. " alt="" coords="233,207,367,413"/>
+<area shape="rect" id="node8" href="$classVector2.html" title="Basic class representation of a vector 2 with an x and y coordinate. " alt="" coords="407,5,514,132"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="PIL.ImageShow.Viewer.show_image" name="PIL.ImageShow.Viewer.show_image">
+<area shape="rect" id="node2" href="$classPIL_1_1ImageShow_1_1Viewer.html#ab19f8dc5c77a5172b5a416887e3e8bcc" title="PIL.ImageShow.Viewer.show_file" alt="" coords="246,15,464,40"/>
+<area shape="rect" id="node4" href="$classPIL_1_1ImageShow_1_1Viewer.html#aad5e9724c2b373048c41ff41cf4942fb" title="PIL.ImageShow.Viewer.save\l_image" alt="" coords="260,65,450,104"/>
+<area shape="rect" id="node3" href="$classPIL_1_1ImageShow_1_1Viewer.html#aac88a368669e21d3e8b0ce2993407752" title="PIL.ImageShow.Viewer.get\l_command" alt="" coords="512,5,692,44"/>
+<area shape="rect" id="node5" href="$classPIL_1_1ImageShow_1_1Viewer.html#a0585450f79b17f3f8cffec7d4d03f2aa" title="PIL.ImageShow.Viewer.get\l_format" alt="" coords="512,68,692,107"/>
+</map>

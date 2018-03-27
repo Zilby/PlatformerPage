@@ -1,0 +1,6 @@
+<map id="PIL.ImageEnhance._Enhance" name="PIL.ImageEnhance._Enhance">
+<area shape="rect" id="node3" href="$classPIL_1_1ImageEnhance_1_1Brightness.html" title="{PIL.ImageEnhance.Brightness\n|+ image\l+ degenerate\l|+ __init__()\l+ __init__()\l}" alt="" coords="5,268,207,368"/>
+<area shape="rect" id="node4" href="$classPIL_1_1ImageEnhance_1_1Color.html" title="{PIL.ImageEnhance.Color\n|+ image\l+ intermediate_mode\l+ degenerate\l|+ __init__()\l+ __init__()\l}" alt="" coords="230,261,401,375"/>
+<area shape="rect" id="node5" href="$classPIL_1_1ImageEnhance_1_1Contrast.html" title="{PIL.ImageEnhance.Contrast\n|+ image\l+ degenerate\l|+ __init__()\l+ __init__()\l}" alt="" coords="425,268,614,368"/>
+<area shape="rect" id="node6" href="$classPIL_1_1ImageEnhance_1_1Sharpness.html" title="{PIL.ImageEnhance.Sharpness\n|+ image\l+ degenerate\l|+ __init__()\l+ __init__()\l}" alt="" coords="638,268,840,368"/>
+</map>

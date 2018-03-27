@@ -1,0 +1,5 @@
+<map id="PIL.ImageFile.Parser.close" name="PIL.ImageFile.Parser.close">
+<area shape="rect" id="node2" href="$classPIL_1_1ImageFile_1_1Parser.html#a8a952f7aa1f42012d193c1ec4060122f" title="PIL.ImageFile.Parser.feed" alt="" coords="234,29,409,55"/>
+<area shape="rect" id="node3" href="$classPIL_1_1TiffImagePlugin_1_1TiffImageFile.html#ab811ccf4c27ea8f21d4e167cf320e76d" title="PIL.TiffImagePlugin.Tiff\lImageFile._load_libtiff" alt="" coords="243,79,401,117"/>
+<area shape="rect" id="node4" href="$classPIL_1_1TiffImagePlugin_1_1ImageFileDirectory__v1.html#a767487c5f2e7514f25df82485688db61" title="PIL.TiffImagePlugin.Image\lFileDirectory_v1.to_v2" alt="" coords="457,79,635,117"/>
+</map>

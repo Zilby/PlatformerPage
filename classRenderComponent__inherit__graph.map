@@ -1,0 +1,8 @@
+<map id="RenderComponent" name="RenderComponent">
+<area shape="rect" id="node3" href="$classAnimationRenderComponent.html" title="An AnimationRenderComponent class. " alt="" coords="5,375,218,515"/>
+<area shape="rect" id="node4" href="$classImageRenderComponent.html" title="An ImageRenderComponent class. " alt="" coords="243,408,434,481"/>
+<area shape="rect" id="node5" href="$classRectRenderComponent.html" title="A component class for rendering rects as solid colors. " alt="" coords="458,401,640,488"/>
+<area shape="rect" id="node6" href="$classTextRenderComponent.html" title="A TextRenderComponent class. " alt="" coords="664,381,842,508"/>
+<area shape="rect" id="node7" href="$classTileRenderComponent.html" title="A class for fendering a map of tiles. " alt="" coords="867,355,1042,535"/>
+<area shape="rect" id="node2" href="$classComponent.html" title="Class representing a component of a GameObject. " alt="" coords="461,5,637,105"/>
+</map>

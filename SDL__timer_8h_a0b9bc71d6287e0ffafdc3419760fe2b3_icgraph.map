@@ -1,0 +1,3 @@
+<map id="SDL_GetTicks" name="SDL_GetTicks">
+<area shape="rect" id="node2" href="$classTimeManager.html#ad3edbdd7a022b23e5b92ba5f5bf45a6b" title="Stabilizes the framerate of the game by calling SDL_Delay. " alt="" coords="160,5,380,31"/>
+</map>

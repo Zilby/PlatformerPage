@@ -1,0 +1,17 @@
+<map id="PIL.IcoImagePlugin.IcoFile.frame" name="PIL.IcoImagePlugin.IcoFile.frame">
+<area shape="rect" id="node2" href="$classPIL_1_1IcoImagePlugin_1_1IcoFile.html#a2feb67341ac419e69b52d5a10aa77c6a" title="PIL.IcoImagePlugin.IcoFile.sizes" alt="" coords="290,5,504,31"/>
+<area shape="rect" id="node3" href="$classPIL_1_1EpsImagePlugin_1_1EpsImageFile.html#a8f4abf25b6a6abe78fb7f25b5818e0fa" title="PIL.EpsImagePlugin.EpsImage\lFile.load" alt="" coords="294,55,500,93"/>
+<area shape="rect" id="node4" href="$classPIL_1_1FpxImagePlugin_1_1FpxImageFile.html#a04150423969a11683544fe7af73311a9" title="PIL.FpxImagePlugin.FpxImage\lFile.load" alt="" coords="295,117,500,156"/>
+<area shape="rect" id="node5" href="$classPIL_1_1GbrImagePlugin_1_1GbrImageFile.html#a95ec6b6ffb3cd3922bd138a6e216c199" title="PIL.GbrImagePlugin.GbrImage\lFile.load" alt="" coords="295,180,500,219"/>
+<area shape="rect" id="node6" href="$classPIL_1_1IcnsImagePlugin_1_1IcnsImageFile.html#ab1c0f090bd473156953fb55884a9046d" title="PIL.IcnsImagePlugin.Icns\lImageFile.load" alt="" coords="311,243,483,281"/>
+<area shape="rect" id="node7" href="$classPIL_1_1IcoImagePlugin_1_1IcoImageFile.html#af6e37185ed8c54192b414eeed5d6a734" title="PIL.IcoImagePlugin.IcoImage\lFile.load" alt="" coords="300,305,495,344"/>
+<area shape="rect" id="node8" href="$classPIL_1_1ImageFile_1_1ImageFile.html#a23c145c60ea3d5bbd49a3093824db3ff" title="PIL.ImageFile.ImageFile.load" alt="" coords="300,368,495,393"/>
+<area shape="rect" id="node9" href="$classPIL_1_1ImageFile_1_1StubImageFile.html#a718cdbea1ab0b6628bc32ef1d70cc681" title="PIL.ImageFile.StubImageFile.load" alt="" coords="286,417,508,443"/>
+<area shape="rect" id="node10" href="$classPIL_1_1IptcImagePlugin_1_1IptcImageFile.html#a21088b517f434d2e5b72bccce94021d4" title="PIL.IptcImagePlugin.Iptc\lImageFile.load" alt="" coords="314,467,480,505"/>
+<area shape="rect" id="node11" href="$classPIL_1_1Jpeg2KImagePlugin_1_1Jpeg2KImageFile.html#a75c4d56d67bfeab8353911e828b71d1f" title="PIL.Jpeg2KImagePlugin.Jpeg2\lKImageFile.load" alt="" coords="295,529,500,568"/>
+<area shape="rect" id="node12" href="$classPIL_1_1TiffImagePlugin_1_1ImageFileDirectory__v2.html#a3799e5b6cdc5df860a0b9d2f510032c4" title="PIL.TiffImagePlugin.Image\lFileDirectory_v2.load" alt="" coords="308,592,486,631"/>
+<area shape="rect" id="node13" href="$classPIL_1_1TiffImagePlugin_1_1TiffImageFile.html#a3f82c5bac50552d4a77faed040906ce9" title="PIL.TiffImagePlugin.Tiff\lImageFile.load" alt="" coords="318,655,477,693"/>
+<area shape="rect" id="node14" href="$classPIL_1_1WebPImagePlugin_1_1WebPImageFile.html#a4ffedda428676dde8f544b686eeee789" title="PIL.WebPImagePlugin.WebPImage\lFile.load" alt="" coords="281,717,513,756"/>
+<area shape="rect" id="node15" href="$classPIL_1_1WmfImagePlugin_1_1WmfHandler.html#a6b4bf6fd727e197cf630e00a45372995" title="PIL.WmfImagePlugin.WmfHandler.load" alt="" coords="271,780,524,805"/>
+<area shape="rect" id="node16" href="$classPIL_1_1IcoImagePlugin_1_1IcoFile.html#ac0fd5fb8457960edf55fb10f0f4cebab" title="PIL.IcoImagePlugin.IcoFile.getimage" alt="" coords="278,829,517,855"/>
+</map>

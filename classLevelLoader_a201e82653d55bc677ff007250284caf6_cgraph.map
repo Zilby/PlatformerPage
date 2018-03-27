@@ -1,0 +1,9 @@
+<map id="LevelLoader::CreateLevel" name="LevelLoader::CreateLevel">
+<area shape="rect" id="node2" href="$classSoundManager.html#aae4237247bd8f6beae2c042411c903a8" title="The singleton instance of the SoundManager. " alt="" coords="237,5,406,31"/>
+<area shape="rect" id="node3" href="$classSoundManager.html#aad0dc203e77d0bb1fee309664e180106" title="Plays the given sound the given number of times. " alt="" coords="229,55,414,80"/>
+<area shape="rect" id="node4" href="$classResourceManager.html#a91756683167c290b33b7525881122940" title="The singleton instance of the ResourceManager. " alt="" coords="227,104,415,129"/>
+<area shape="rect" id="node5" href="$classGameObject.html#a01fa32bcfb0dd60074681c3ae02950d5" title="GameObject::Create" alt="" coords="250,153,393,179"/>
+<area shape="rect" id="node8" href="$classTileMap.html#a762863e5628440186d034c78c7f88016" title="Updates this component. " alt="" coords="228,203,415,228"/>
+<area shape="rect" id="node6" href="$classGameObject.html#a261cf9b8bf31e0afaa00a21ce14d1b5a" title="Constructs a GameObject. " alt="" coords="463,117,642,143"/>
+<area shape="rect" id="node7" href="$classGameManager.html#a38098a346a5e7901440b85e1152055db" title="The singleton instance of the GameManager. " alt="" coords="469,191,636,216"/>
+</map>

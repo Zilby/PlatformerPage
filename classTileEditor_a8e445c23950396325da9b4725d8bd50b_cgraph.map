@@ -1,0 +1,9 @@
+<map id="TileEditor::TileEditor" name="TileEditor::TileEditor">
+<area shape="rect" id="node2" href="$classRenderManager.html#ae461c908c30dca62528798b92a985a4a" title="The singleton instance of the RenderManager. " alt="" coords="426,41,600,66"/>
+<area shape="rect" id="node3" href="$classRenderManager.html#aba8f82ab4c6f3d4d9371f2d38b666819" title="Gets the screen width for this instance. " alt="" coords="196,30,374,56"/>
+<area shape="rect" id="node4" href="$classRenderManager.html#a039248251e5a61fb17c819260a90c4a8" title="Gets the screen height for this instance. " alt="" coords="194,80,376,105"/>
+<area shape="rect" id="node5" href="$classGameObject.html#a01fa32bcfb0dd60074681c3ae02950d5" title="GameObject::Create" alt="" coords="213,192,357,217"/>
+<area shape="rect" id="node8" href="$classTextRenderComponent.html#a9ef0c329dabf702776781f75ab901016" title="Changes the text of this TextRenderComponent. " alt="" coords="206,129,364,168"/>
+<area shape="rect" id="node6" href="$classGameObject.html#a261cf9b8bf31e0afaa00a21ce14d1b5a" title="Constructs a GameObject. " alt="" coords="424,152,602,177"/>
+<area shape="rect" id="node7" href="$classGameManager.html#a38098a346a5e7901440b85e1152055db" title="The singleton instance of the GameManager. " alt="" coords="429,225,597,250"/>
+</map>

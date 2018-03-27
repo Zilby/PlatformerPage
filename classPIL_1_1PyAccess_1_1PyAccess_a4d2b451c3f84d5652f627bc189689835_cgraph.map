@@ -1,0 +1,14 @@
+<map id="PIL.PyAccess.PyAccess.__getitem__" name="PIL.PyAccess.PyAccess.__getitem__">
+<area shape="rect" id="node2" href="$classPIL_1_1PyAccess_1_1PyAccess.html#ab479d9a1daf828d135bc66e4ccbb9a17" title="PIL.PyAccess.PyAccess.check_xy" alt="" coords="223,5,448,31"/>
+<area shape="rect" id="node3" href="$classPIL_1_1PyAccess_1_1__PyAccess32__2.html#ab2a69a340880f9bee8aaceeb4349d7bc" title="PIL.PyAccess._PyAccess32\l_2.get_pixel" alt="" coords="241,55,429,93"/>
+<area shape="rect" id="node4" href="$classPIL_1_1PyAccess_1_1__PyAccess32__3.html#ab5d22fd5830c327ae08f8a8b7c58365d" title="PIL.PyAccess._PyAccess32\l_3.get_pixel" alt="" coords="241,117,429,156"/>
+<area shape="rect" id="node5" href="$classPIL_1_1PyAccess_1_1__PyAccess32__4.html#a4952c007a6296b7cdd140e484530d86c" title="PIL.PyAccess._PyAccess32\l_4.get_pixel" alt="" coords="241,180,429,219"/>
+<area shape="rect" id="node6" href="$classPIL_1_1PyAccess_1_1__PyAccess8.html#a36f885a43aca2ce1e2c2951e7490c773" title="PIL.PyAccess._PyAccess8.get\l_pixel" alt="" coords="234,243,437,281"/>
+<area shape="rect" id="node7" href="$classPIL_1_1PyAccess_1_1__PyAccessI16__N.html#aeda075f8caddd1374f88bdb26aeeed9a" title="PIL.PyAccess._PyAccessI16\l_N.get_pixel" alt="" coords="240,305,431,344"/>
+<area shape="rect" id="node8" href="$classPIL_1_1PyAccess_1_1__PyAccessI16__L.html#a441834dd33cc436edff9a73be5868231" title="PIL.PyAccess._PyAccessI16\l_L.get_pixel" alt="" coords="240,368,431,407"/>
+<area shape="rect" id="node9" href="$classPIL_1_1PyAccess_1_1__PyAccessI16__B.html#a32994100d025d61bce3d6a18cae80282" title="PIL.PyAccess._PyAccessI16\l_B.get_pixel" alt="" coords="240,431,431,469"/>
+<area shape="rect" id="node10" href="$classPIL_1_1PyAccess_1_1__PyAccessI32__N.html#a9e694c1ba6c7a408f53ea2b6ae780a97" title="PIL.PyAccess._PyAccessI32\l_N.get_pixel" alt="" coords="240,493,431,532"/>
+<area shape="rect" id="node11" href="$classPIL_1_1PyAccess_1_1__PyAccessI32__Swap.html#aa0853bb2a191c289f5d630ead69c6472" title="PIL.PyAccess._PyAccessI32\l_Swap.get_pixel" alt="" coords="240,556,431,595"/>
+<area shape="rect" id="node12" href="$classPIL_1_1PyAccess_1_1__PyAccessF.html#aece0367649b030152c53950794697b2f" title="PIL.PyAccess._PyAccessF.get\l_pixel" alt="" coords="234,619,436,657"/>
+<area shape="rect" id="node13" href="$classPIL_1_1PyAccess_1_1__PyAccessI32__Swap.html#ae82a8083b7fff534ec2d67a422a6e1c7" title="PIL.PyAccess._PyAccessI32\l_Swap.reverse" alt="" coords="240,681,431,720"/>
+</map>

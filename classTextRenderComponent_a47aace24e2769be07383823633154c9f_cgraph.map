@@ -1,0 +1,4 @@
+<map id="TextRenderComponent::TextRenderComponent" name="TextRenderComponent::TextRenderComponent">
+<area shape="rect" id="node2" href="$classResourceManager.html#a91756683167c290b33b7525881122940" title="The singleton instance of the ResourceManager. " alt="" coords="223,5,411,31"/>
+<area shape="rect" id="node3" href="$classResourceManager.html#aa1805fd3058f1938b63b8ecc6984ff79" title="Loads a font from the given path in the given textSize Uses the stored font if already loaded..." alt="" coords="219,55,414,80"/>
+</map>

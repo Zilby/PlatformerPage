@@ -1,0 +1,10 @@
+<map id="ThirdParty/include/SDL2/SDL_thread.h" name="ThirdParty/include/SDL2/SDL_thread.h">
+<area shape="rect" id="node2" href="$SDL__stdinc_8h.html" title="This is a general header that includes C language support. " alt="" coords="820,239,921,264"/>
+<area shape="rect" id="node5" href="$begin__code_8h.html" title="This file sets things up for C dynamic library function definitions, static inlined functions..." alt="" coords="783,459,884,484"/>
+<area shape="rect" id="node6" href="$close__code_8h.html" title="This file reverses the effects of begin_code.h and should be included after you finish any function a..." alt="" coords="1518,459,1618,484"/>
+<area shape="rect" id="node20" href="$SDL__error_8h.html" title="Simple error message routines for SDL. " alt="" coords="305,165,399,191"/>
+<area shape="rect" id="node21" href="$SDL__atomic_8h.html" title="Atomic operations. " alt="" coords="1579,165,1685,191"/>
+<area shape="rect" id="node22" href="$SDL__mutex_8h.html" title="Functions to provide thread synchronization primitives. " alt="" coords="301,92,403,117"/>
+<area shape="rect" id="node3" href="$SDL__config_8h_source.html" title="SDL_config.h" alt="" coords="1381,312,1483,337"/>
+<area shape="rect" id="node4" href="$SDL__platform_8h.html" title="Try to get a standard set of platform defines. " alt="" coords="1396,385,1510,411"/>
+</map>

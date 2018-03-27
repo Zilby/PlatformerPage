@@ -1,0 +1,4 @@
+<map id="PIL.BmpImagePlugin.DibImageFile" name="PIL.BmpImagePlugin.DibImageFile">
+<area shape="rect" id="node2" href="$classPIL_1_1BmpImagePlugin_1_1BmpImageFile.html" title="{PIL.BmpImagePlugin.BmpImageFile\n|+ size\l+ mode\l+ palette\l+ tile\l+ COMPRESSIONS\l+ RAW\l+ RLE8\l+ RLE4\l+ BITFIELDS\l+ JPEG\l+ PNG\l|&#45; _bitmap()\l&#45; _open()\l&#45; _bitmap()\l&#45; _open()\l}" alt="" coords="7,583,243,829"/>
+<area shape="rect" id="node3" href="$classPIL_1_1ImageFile_1_1ImageFile.html" title="{PIL.ImageFile.ImageFile\n|+ tile\l+ readonly\l+ decoderconfig\l+ decodermaxblock\l+ fp\l+ filename\l+ map\l+ im\l+ mode\l&#45; _min_frame\l&#45; _exclusive_fp\l|+ __init__()\l+ draft()\l+ verify()\l+ load()\l+ load_prepare()\l+ load_end()\l+ __init__()\l+ draft()\l+ verify()\l+ load()\l+ load_prepare()\l+ load_end()\l&#45; _seek_check()\l&#45; _seek_check()\l}" alt="" coords="26,128,192,508"/>
+</map>

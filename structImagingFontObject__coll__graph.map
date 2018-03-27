@@ -1,0 +1,6 @@
+<map id="ImagingFontObject" name="ImagingFontObject">
+<area shape="rect" id="node4" href="$structImagingObject.html" title="{ImagingObject\n||}" alt="" coords="41,508,148,581"/>
+<area shape="rect" id="node5" href="$structImagingMemoryInstance.html" title="{ImagingMemoryInstance\n|+ mode\l+ type\l+ depth\l+ bands\l+ xsize\l+ ysize\l+ image8\l+ image32\l+ image\l+ block\l+ pixelsize\l+ linesize\l+ destroy\l|}" alt="" coords="152,153,320,387"/>
+<area shape="rect" id="node3" href="$structGlyph.html" title="{Glyph\n|+ dx\l+ dy\l+ dx0\l+ dy0\l+ dx1\l+ dy1\l+ sx0\l+ sy0\l+ sx1\l+ sy1\l|}" alt="" coords="172,448,228,641"/>
+<area shape="rect" id="node6" href="$structImagingMemoryBlock.html" title="{ImagingMemoryBlock\n|+ ptr\l+ size\l|}" alt="" coords="161,5,311,92"/>
+</map>
